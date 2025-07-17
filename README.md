@@ -5,7 +5,7 @@ AirDraw, el hareketlerinizi algılayarak havada çizim yapmanızı sağlayan kla
 < Özellikler >
 
 - 👆 İşaret parmağınızla havaya çizim yapın  
-- ✊ Yumruk yaptığınızda tuvali temizler  
+- ✊ Yumruk yaptığınızda tüm çizimi temizler  
 - 👌 veya 👍 işareti ile çizimi kaydeder (Kayıtlar otomatik olarak ~/Downloads/cizimler/ klasörüne yapılır)
 
 < Gereksinimler (requirements) >
@@ -29,7 +29,7 @@ numpy
 | Hareket        | İşlev              |
 |----------------|-------------------|
 | 👆 1 parmak     | Çizim yapar        |
-| ✊ Yumruk       | Tuvali temizler    |
+| ✊ Yumruk       | Ekranı temizler    |
 | 👌 veya 👍      | Çizimi kaydeder    |
 
 Programdan çıkmak için `q` tuşuna basın.
