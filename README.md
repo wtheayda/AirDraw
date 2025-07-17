@@ -17,7 +17,7 @@ numpy
 < Kurulum >
 
 1. Projeyi indirin veya klonlayın:
-   git clone https://github.com/kullaniciAdi/airdraw.git
+   git clone https://github.com/kullaniciAdi/AirDraw.git
    cd airdraw
 
 2. Gerekli paketleri yükleyin:
